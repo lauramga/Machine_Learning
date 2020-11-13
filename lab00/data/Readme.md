@@ -1,0 +1,1 @@
+En este trabajo hemos relizado un analisis exploratorio sobre cómo afecta el consumo del alcohol a la felicidad.
